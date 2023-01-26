@@ -1,4 +1,4 @@
 export const config={
-    // api:"https://money-manage-back-end-source-code.vercel.app"
-    api:"http://localhost:5000"
+     api:"https://money-manager-back.onrender.com"
+    //api:"http://localhost:5000"
 }
